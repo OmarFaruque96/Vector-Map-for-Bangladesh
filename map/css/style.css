@@ -1,0 +1,11 @@
+body{
+	height: 100% !important;
+	width: 100% !important;
+	background: deepskyblue;
+}
+a{
+	fill:green;
+}
+a:hover{
+	fill: red !important;
+}
