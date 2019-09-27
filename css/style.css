@@ -1,0 +1,19 @@
+body{
+	height: 100% !important;
+	width: 100% !important;
+	background: deepskyblue;
+}
+a{
+	fill:green;
+	fill-opacity:1;
+	fill-rule:evenodd;
+	stroke:#ffffff;
+	stroke-width:1.00000011999999994px;
+	stroke-linecap:butt;
+	stroke-linejoin:miter;
+	stroke-opacity:1;
+}
+a:hover{
+	fill: red !important;
+
+}
